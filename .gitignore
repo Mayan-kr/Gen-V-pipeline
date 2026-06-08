@@ -1,0 +1,21 @@
+# Keys and Secrets
+key.txt
+*.env
+.env*
+
+# Outputs
+outputs/
+*.mp4
+*.mp3
+
+# Python
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Temp
+.tempmediaStorage/
+scratch/
